@@ -1,0 +1,18 @@
+{
+  "name": "consolearnx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.12",
+    "mongoose": "^8.0.0"
+  }
+}
